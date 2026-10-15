@@ -1,0 +1,4 @@
+title: 阶梯充值活动配置
+markdown: kramdown
+kramdown:
+  input: GFM
