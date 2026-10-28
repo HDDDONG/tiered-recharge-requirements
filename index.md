@@ -209,4 +209,4 @@ title: 阶梯充值活动配置
 
 - [支付中台通道管理](./channel-management/)
 
-- [提现审核配置](./withdrawal-review-config/)
+- [提现自动审核配置](./withdrawal-review-config/)
