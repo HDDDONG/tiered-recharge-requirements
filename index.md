@@ -208,3 +208,5 @@ title: 阶梯充值活动配置
 ## 其他需求文档
 
 - [支付中台通道管理](./channel-management/)
+
+- [提现审核配置](./withdrawal-review-config/)
