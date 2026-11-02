@@ -13,6 +13,8 @@ title: 周卡活动配置
 
 [打开周卡活动配置可视化原型](https://hdddong.github.io/LUCKY/admin/#menu=m11-7-1&activity=110&view=rules)
 
+[打开周卡前台交互预览](https://hdddong.github.io/LUCKY/admin/#menu=m11-7-1&activity=110&view=rules&preview=1)。也可在后台配置页右上角点击「前台预览」。预览读取当前分组的配置，可以模拟购买、领取及次日零点刷新。切换到“两套方案”演示场景，可查看限次方案用完后只剩不限次方案、左右箭头隐藏的效果。
+
 ## 三、后台配置
 
 | 模块 | 配置规则 |
